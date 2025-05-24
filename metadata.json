@@ -1,0 +1,5 @@
+{
+  "name": "AgroAdvisor: Crop Recommendation",
+  "description": "A smart agricultural assistant providing crop recommendations based on soil and environmental conditions. Enter your farm's data to receive an instant suggestion for optimal planting.",
+  "requestFramePermissions": []
+}
